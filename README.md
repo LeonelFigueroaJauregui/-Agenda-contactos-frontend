@@ -1,46 +1,100 @@
-# 📱 Agenda de Contactos — Web & Mobile
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=250&section=header&text=Agenda%20Digital%20Multiplataforma&fontColor=00ff9d&fontSize=40&fontAlignY=35" />
+</p>
 
-Una aplicación de **gestión de contactos** diseñada tanto para **navegadores web** como para **dispositivos móviles**.  
-Incluye una interfaz moderna, accesible, y con enfoque en usabilidad.
+<div align="center">
 
----
+# 🕶️ Agenda Digital Multiplataforma  
+### _Proyecto de Ingeniería en Computación – CUAltos_
 
-## 🚀 Características principales
-
-✅ Registrar nuevos contactos  
-✅ Editar y eliminar contactos  
-✅ Búsqueda rápida  
-✅ Diseño responsivo (Web + Móvil)  
-✅ Interfaz limpia creada en Figma  
-✅ Prototipos navegables para Web y Móvil  
-✅ Preparado para futura implementación en código
-✅ Cambio de idioma en el login a Ingles en el Web
----
-
-## 🎨 Diseño en Figma
-
-### 🔗 **Prototipo Web**  
-[Ver Prototipo Web](https://www.figma.com/proto/DWwieRbsDf7NkKwD4VmChf/Agenda-de-contactos-web?node-id=1-2&p=f&t=5gJNw2IGEaRZwe3q-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-
-### 🔗 **Prototipo Móvil**  
-[Ver Prototipo Móvil](https://www.figma.com/proto/DWwieRbsDf7NkKwD4VmChf/Agenda-de-contactos-web?node-id=159-696&p=f&t=5gJNw2IGEaRZwe3q-0&scaling=min-zoom&content-scaling=fixed&page-id=131%3A2&starting-point-node-id=159%3A696)
-
-### 🔗 **Archivo completo del diseño**  
-[Ver diseño completo en Figma](https://www.figma.com/design/DWwieRbsDf7NkKwD4VmChf/Agenda-de-contactos-web)
+</div>
 
 ---
 
-## 🖼️ Capturas del diseño
-
-
-### ✅ Vista Web  
-![Vista Web](https://github.com/LeonelFigueroaJauregui/-Agenda-contactos-frontend/blob/main/.assets/Web.png?raw=true)
-
-### ✅ Vista Móvil  
-![Vista Móvil](https://github.com/LeonelFigueroaJauregui/-Agenda-contactos-frontend/blob/main/.assets/movil.png?raw=true)
+## 🚀 Descripción del Proyecto
+La **Agenda Digital Multiplataforma** es una herramienta diseñada para organizar actividades, eventos, notas y recordatorios desde web y aplicación móvil.  
+Incluye flujo de diseño completo: requisitos, prototipo en Figma, PDFs entregables, pruebas y archivos finales.
 
 ---
 
-## 📂 Estructura del proyecto (sugerida)
-/assets → Capturas del prototipo (Web & Mobile)
+## 🧩 Características Principales
+✅ Agenda web y app móvil  
+✅ Prototipo completo en Figma (archivo .fig incluido)  
+✅ Diseño UI/UX profesional  
+✅ Funcionalidad multiplataforma  
+✅ Documentos PDF incluidos directamente en el repositorio  
+✅ Prototipo web con opción de cambio de lenguaje en registro
+
+---
+
+## 🎨 Vista Previa del Diseño
+
+<p align="center">
+  <img src="assets/movil.png" width="300" style="border-radius:12px;">
+  <img src="assets/Web.png" width="300" style="border-radius:12px;">
+</p>
+
+---
+
+## 📁 Archivos del Proyecto
+
+### 📐 Diseño (Figma + PDFs)
+- 🎨 **Prototipo Figma:**  
+  👉 [Descargar `.fig`](design/Agenda_de_contactos.fig)
+
+- 📄 **PDFs del diseño:**  
+  - 👉 [Agenda Web (PDF)](design/frames_Agenda_web.pdf)  
+  - 👉 [Agenda App (PDF)](design/frames_agendaApp.pdf)
+
+---
+
+## 📂 Estructura del Proyecto
+
+```plaintext
+.
+├── README.md
+├── assets/
+│   ├── movil.png
+│   ├── Web.png
+│
+└── design/
+    ├── Agenda_de_contactos.fig
+    ├── frames_Agenda_web.pdf
+    ├── frames_agendaApp.pdf
+```
+-------
+## 🔧 Tecnologías (del prototipo y diseño)
+- Figma  
+- UI/UX Design  
+- Responsive Layout  
+- Estándares de diseño moderno  
+
+---
+
+## 📌 Estado del Proyecto
+✅ Diseño completado  
+🔄 Desarrollo en proceso 
+
+---
+
+## 🧑‍💻 Autor
+**Leonel Figueroa Jauregui**  
+Ingeniería en Computación – CUAltos, UdeG  
+
+
+
+MIT License
+
+Copyright (c) 2025 Leonel Figueroa Jauregui
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
+
+---
+<div align="center">
+⭐ ¿Te gustó el proyecto?
+
+Si te sirvió o te gustó, ¡déjame una estrellita ⭐ en GitHub!
+
+</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=footer" /> </p> 
 
